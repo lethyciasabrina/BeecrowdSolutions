@@ -10,7 +10,7 @@ Uso o beecrowd (antigo URI Online Judge) para treinar logica de programação, e
 As seguintes linguagens de programação foram usadas:
 
 ## Kotlin
-<img src="BeecrowdSolutions/app/src/main/java/com/example/beecrowd_solutions/images/kotlin.png" width="100">
+<img src="app/src/main/java/com/example/beecrowd_solutions/images/kotlin.png" width="100">
 
 ## Author
 Lethycia Sabrina Leal Santos (follow me on [Linkedin](https://www.linkedin.com/in/lethyciasabrinaleal/))
