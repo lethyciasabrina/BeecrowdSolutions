@@ -1,5 +1,5 @@
 # 💻 Sobre
-Uso o beecrowd (antigo URI Online Judge) para treinar lógica de programação, e disponibilizo os resultados aqui.
+Uso o beecrowd (antigo URI Online Judge) para treinar lógica de programação e compartilho o meu progresso aqui.
 
 # 🎯 Objetivo 
   - Aperfeiçoar habilidades de resolução de problemas através da prática em desafios de programação.
