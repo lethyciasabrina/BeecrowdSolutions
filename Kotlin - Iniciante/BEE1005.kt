@@ -10,7 +10,7 @@ fun main(){
     val weightedSum  = (grade1 * 3.5) + (grade2 * 7.5)
     val finalGrade  = weightedSum / totalWeights
 
-    val formattedFinalGrade  = String.format("%.5f",finalGrade)
+    val formattedFinalGrade = String.format("%.5f",finalGrade)
 
     println("MEDIA = $formattedFinalGrade")
 }
