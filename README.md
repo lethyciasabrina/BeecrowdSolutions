@@ -9,7 +9,6 @@ Uso o beecrowd (antigo URI Online Judge) para treinar lógica de programação e
 # 🛠 Tecnologias  
 As seguintes linguagens de programação foram usadas:
 
-## Kotlin
 <img src="kotlin.png" width="100">
 
 ## Author
